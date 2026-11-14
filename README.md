@@ -5,7 +5,6 @@
 **Materia:** Lenguajes de Interfaz (10–11)  
 **Docente:** Dr. José Luis Medina Jiménez  
 
-Repositorio con las cinco prácticas de la **Unidad 3: Modularización** desarrolladas en MASM con la librería `Irvine32`[cite: 1, 7].
 
 ---
 
